@@ -24,3 +24,7 @@ Open your command line window (depending on your OS) and navigate to the directo
 python entertainment_center.py
 ```
 The default browser will then open the Movie Trailer Website in a new window.
+
+<h3>Credits</h3>
+
+Credits to [Udacity](https://www.udacity.com) for providing the fresh_tomatoes.py code for the web browser.
