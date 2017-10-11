@@ -4,9 +4,9 @@ This repository is my submission for Udacity's [Full Stack Web Developer Nanodeg
 
 <h3>What the repo contains</h3>
 The repo contains these three files:
-1. entertainment_center.py: the main code that instantiates the movies as well as the web browser object
-2. media.py: contains the Movie class definition that stores the different movies
-3. fresh_tomatoes.py: contains the code used to generate the Movie trailer website given a list of movies
+- entertainment_center.py: the main code that instantiates the movies as well as the web browser object
+- media.py: contains the Movie class definition that stores the different movies
+- fresh_tomatoes.py: contains the code used to generate the Movie trailer website given a list of movies
 
 <h3>Requirements</h3>
 You will need python 2.x to run this code. 
